@@ -4,8 +4,6 @@ LOGIN_USER = '/api/auth/login'
 UPDATE_DATA = '/api/auth/user'
 CREATE_ORDER = '/api/orders'
 GET_ORDER = '/api/orders'
-
-
 GET_INGREDIENTS = '/api/ingredients'
 RESET_PASSWORD = '/api/password-reset'
 RESET_PASSWORD_CONFIRM = '/api/password-reset/reset'
